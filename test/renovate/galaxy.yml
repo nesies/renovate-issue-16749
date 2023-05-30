@@ -13,7 +13,7 @@ homepage: http://example.com
 issues: http://example.com/issue/tracker
 build_ignore: []
 dependencies:
-  ansible.posix: "1.0.0"
+  ansible.posix: "1.5.4"
   # comment whih makes renovate end parsing
   # latest is 2.6.1
   ansible.utils: "1.0.0"
